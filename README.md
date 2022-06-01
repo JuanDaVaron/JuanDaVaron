@@ -1,4 +1,4 @@
-## ¡Hola! Soy Juan David Varón 😃
+# ¡Hola! Soy Juan David Varón 😃
  <div>
   <a href="https://github.com/juandavaron">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juandavaron&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/> <!--ESTÁN OCULTAS LAS ESTRELLAS Y LAS CONTRIBUCIONES (hide=...)-->
@@ -7,8 +7,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Juan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">    
   <img align="center" alt="Juan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Juan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Juan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">    
+  <img align="center" alt="Juan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
 </div>
 <br>
 <div>   
