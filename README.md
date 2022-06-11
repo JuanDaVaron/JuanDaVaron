@@ -1,4 +1,15 @@
-# ¡Hola! Soy Juan David Varón 😃
+<h1 align="center">Hey, i'm Juan David Varón</h1>
+<h3 align="center">A Frontend developer from Colombia.</h3>
+
+- 🌱 I’m currently learning **React Native & TypeScript**
+
+<!-- - 👨‍💻 All of my projects are available on [my personal portfolio](https://portfolio-lamaolo.vercel.app/) -->
+<!-- - 💬 Ask me about **React, HTML, CSS & Web design**. -->
+
+- 📫 How to reach me:
+  - 📧 Send me an email: juanvarong@gmail.com
+  - 🌐 [Contact me on LinkedIn](https://www.linkedin.com/in/juanvarong/)
+<hr>
  <div>
   <a href="https://github.com/juandavaron">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juandavaron&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/> <!--ESTÁN OCULTAS LAS ESTRELLAS Y LAS CONTRIBUCIONES (hide=...)-->
